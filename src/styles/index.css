@@ -1,0 +1,8 @@
+.page-nav-bar {
+    background-color: #1989fa;
+}
+
+.page-nav-bar .van-nav-bar__title {
+    /* 这里的van-nav-bar__title，可以查看原有的导航栏的样式*/
+    color: #fff;
+}

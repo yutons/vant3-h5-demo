@@ -1,0 +1,23 @@
+{
+    "name": "vant3-h5-demo",
+    "private": true,
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "amfe-flexible": "^2.2.1",
+        "axios": "^0.26.0",
+        "vant": "^3.4.5",
+        "vue": "^3.2.25",
+        "vue-router": "^4.0.12",
+        "vuex": "^4.0.2"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^2.2.0",
+        "postcss-pxtorem": "^6.0.0",
+        "vite": "^2.8.0"
+    }
+}
